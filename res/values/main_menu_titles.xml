@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_menu_titles">
+        <item >我的帐号</item>
+        <item >我的城市</item>
+        <item >我的上车地点</item>
+        <item >我的下车地点</item>
+        <item >我的选车条件</item>
+        <item >马上找车</item>
+        <item >使用以前的打车条件</item>
+    </string-array>
+    
+</resources>
